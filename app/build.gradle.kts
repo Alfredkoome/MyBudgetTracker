@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.studentbudgettracker"
+    namespace = "com.example.budget"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.studentbudgettracker"
+        applicationId = "com.example.budget"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
